@@ -1,6 +1,6 @@
 # npmdoc-turbine.js
 
-#### api documentation for  [turbine.js (v0.4.0)](https://github.com/wmbenedetto/turbine.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-turbine.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-turbine.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-turbine.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-turbine.js)
+#### basic api documentation for  [turbine.js (v0.4.0)](https://github.com/wmbenedetto/turbine.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-turbine.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-turbine.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-turbine.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-turbine.js)
 
 #### Turbine.js is an event-driven JavaScript Workflow Engine.
 
@@ -81,7 +81,8 @@
         "type": "git",
         "url": "git+https://github.com/wmbenedetto/turbine.js.git"
     },
-    "version": "0.4.0"
+    "version": "0.4.0",
+    "bin": {}
 }
 ```
 
